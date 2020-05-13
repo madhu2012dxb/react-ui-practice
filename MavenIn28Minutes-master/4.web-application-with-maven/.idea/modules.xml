@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/in28minutes-core/in28minutes-core.iml" filepath="$PROJECT_DIR$/in28minutes-core/in28minutes-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in28minutes-mvc.iml" filepath="$PROJECT_DIR$/in28minutes-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in28minutes-web-common/in28minutes-web-common.iml" filepath="$PROJECT_DIR$/in28minutes-web-common/in28minutes-web-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in28minutes-web-servlet-jsp/in28minutes-web-servlet-jsp.iml" filepath="$PROJECT_DIR$/in28minutes-web-servlet-jsp/in28minutes-web-servlet-jsp.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+
+//nesting
+@import './variables';
+@import './header';
+
+/*header button{
+    background: $primaryBtn;
+}
+*/
+.contact {
+   @include flexCenter(row);
+   @extend header;
+   width:100%-10%;
+}
